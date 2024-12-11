@@ -7,8 +7,8 @@ export default function AboutScreen() {
                 This is an about page with my information
             </Text>
         </View>
-    )
-};
+    );
+}
 
 
 const styles = StyleSheet.create({
